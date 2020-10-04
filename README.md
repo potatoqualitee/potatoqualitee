@@ -1,4 +1,4 @@
-### Hi there 👋
+#### Hi there 👋
 
 I automate everything possible using PowerShell 🚀
 
@@ -9,4 +9,4 @@ I automate everything possible using PowerShell 🚀
   - [🐥 - Twitter](https://twitter.com/@cl/)
   - [📺 - Twitch](https://twitch.tv/potatoqualitee)
 
-<p align='right'><img src="https://visitor-badge.glitch.me/badge?page_id=potatoqualitee.visitor-badge"></p>
+<img src="https://visitor-badge.glitch.me/badge?page_id=potatoqualitee.visitor-badge">
