@@ -8,5 +8,3 @@ I automate everything possible using PowerShell 🚀
 - 📫 How to reach me: 
   - [🐥 - Twitter](https://twitter.com/@cl/)
   - [📺 - Twitch](https://twitch.tv/potatoqualitee)
-
-<img src="https://visitor-badge.glitch.me/badge?page_id=potatoqualitee.visitor-badge">
